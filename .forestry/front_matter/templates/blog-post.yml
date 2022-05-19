@@ -8,5 +8,3 @@ fields:
 - type: text
   name: title
   label: title
-pages:
-- _posts/2022-05-18-test-2.md
